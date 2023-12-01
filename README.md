@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eya-houij
+- 👋 Hi, I’m eya houij
 - 🌱 I’m currently learning Django 
 - 📫 How to reach me eyahhouij@gmail.com
 
